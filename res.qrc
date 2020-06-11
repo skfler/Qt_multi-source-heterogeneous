@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/起飞.jpg</file>
+        <file>Image/黑色感叹号.png</file>
+        <file>Image/北建大.png</file>
+        <file>Image/北建大icon.png</file>
+        <file>Image/播放.jpg</file>
+        <file>Image/播放1.jpg</file>
+        <file>Image/暂停.jpg</file>
+        <file>Image/暂停1.jpg</file>
+        <file>Image/问号.jpg</file>
+        <file>Image/关于.jpg</file>
+        <file>Image/文件夹.jpg</file>
+        <file>Image/退出.jpg</file>
+    </qresource>
+</RCC>
