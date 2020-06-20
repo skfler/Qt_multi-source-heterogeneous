@@ -1,5 +1,5 @@
 # 使用Qt进行多源异构数据同步分析软件的实现
-基于Qt的多源异构数据同步分析软件。  
+基于Qt的多源异构数据同步分析软件。是我的毕设作品。  
 A Qt based multi-source-heterogeneous data synchronization analysis software.  
 Developed by Qt Creator 4.11.0, Based on Qt 5.14.0 (MSVC 2017, 32 bit).
 
@@ -20,8 +20,8 @@ txt示例文件我已在项目中的“示例”文件夹中附带eg.txt，届�
 
 ### 代码说明
 登录窗口的相关代码是dialog.h\dialog.cpp\dialog.ui  
-数据查看主界面相关代码是zhujiemian.h\zhujiemian.cpp\zhujiemain.ui，主要分为窗体部分的代码和函数代码，已在源码部分尽可能详细地注释
+数据查看主界面相关代码是zhujiemian.h\zhujiemian.cpp\zhujiemain.ui，主要分为窗体部分的代码和函数代码，已在源码部分尽可能详细地注释。
 
 ### 常见问题
 开发过程中，总结了一些问题，参见我的博客  
-如果对本项目的Qt开发有疑问，欢迎邮件交流：mapengyuu@qq.com，闲暇时间看到会回复
+如果对本项目的Qt开发有疑问，欢迎邮件交流：mapengyuu@qq.com，闲暇时间看到会回复。
