@@ -319,6 +319,7 @@ zhujiemian::zhujiemian(QWidget *parent) :
     connect(mediaPlayer_1,SIGNAL(error(QMediaPlayer::Error)),this,SLOT(handleError()));
 
 
+
     //设置播放按钮信息
     ui->toolButton->setToolTip("播放");
     ui->toolButton->setAutoRaise(false);
