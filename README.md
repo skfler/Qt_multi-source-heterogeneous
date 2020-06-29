@@ -23,5 +23,5 @@ txt示例文件我已在项目中的“示例”文件夹中附带eg.txt，对�
 数据查看主界面相关代码是zhujiemian.h\zhujiemian.cpp\zhujiemain.ui，主要分为窗体部分的代码和函数代码，已在源码部分尽可能详细地注释。
 
 ### 常见问题
-开发过程中，总结了一些问题，参见我的博客  
+开发过程中，总结了一些问题，参见[我的博客](https://blog.csdn.net/weixin_48828571/article/details/106879291)  
 如果对本项目的Qt开发有疑问，欢迎邮件交流：mapengyuu@qq.com，闲暇时间看到会回复。
